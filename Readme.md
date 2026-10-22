@@ -19,10 +19,7 @@ Before building the project, ensure you have the following installed:
 - **Raylib** library
 - The standard C math library (`m`)
 
-### Installing Dependencies on Arch Linux:
+### Installing Dependencies on Arch Linux / Debian:
 ```bash
 sudo pacman -S cmake raylib
-
-### Installing Dependencies on Debian:
-```bash
 sudo apt update && sudo apt install libraylib-dev
