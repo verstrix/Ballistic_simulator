@@ -21,5 +21,5 @@ Before building the project, ensure you have the following installed:
 
 ### Installing Dependencies on Arch Linux / Debian:
 ```bash
-sudo pacman -S cmake raylib
-sudo apt update && sudo apt install libraylib-dev
+sudo pacman -S cmake raylib //arch
+sudo apt update && sudo apt install libraylib-dev //debian
