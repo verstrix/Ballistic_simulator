@@ -4,3 +4,4 @@ project(ballistic_simulator C)
 set(CMAKE_C_STANDARD 23)
 
 add_executable(ballistic_simulator main.c)
+target_link_libraries(ballistic_simulator PRIVATE m)
